@@ -1,0 +1,25 @@
+{
+  "readLater": [
+    {
+      "title": "Covid-19 Live Updates: Kelly Loeffler Isolating After Test Results - The New York Times",
+      "author": "Katie Thomas, Noah Weiland",
+      "urlToImage": "https://static01.nyt.com/images/2020/11/22/us/22virus-briefing-newmexico/22virus-briefing-newmexico-facebookJumbo.jpg",
+      "description": "New York City and New York State differ on how they measure the crucial threshold of 3 percent positivity. Unlike the rest of the U.S., Hawaii has seen a decline in infections. South Korea and Japan face surges.",
+      "id": 1
+    },
+    {
+      "title": "Guitar Center is filing for bankruptcy - CNN",
+      "author": "Alexis Benveniste, CNN Business",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201122100051-01-guitar-center-file-super-tease.jpg",
+      "description": "Guitar Center is filing for Chapter 11 bankruptcy, the latest company to go bankrupt during the pandemic that has decimated America's retail sector.",
+      "id": 2
+    },
+    {
+      "title": "Covid-19 Live Updates: Kelly Loeffler Isolating After Test Results - The New York Times",
+      "author": "Katie Thomas, Noah Weiland",
+      "urlToImage": "https://static01.nyt.com/images/2020/11/22/us/22virus-briefing-newmexico/22virus-briefing-newmexico-facebookJumbo.jpg",
+      "description": "New York City and New York State differ on how they measure the crucial threshold of 3 percent positivity. Unlike the rest of the U.S., Hawaii has seen a decline in infections. South Korea and Japan face surges.",
+      "id": 3
+    }
+  ]
+}
